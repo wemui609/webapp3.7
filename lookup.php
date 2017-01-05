@@ -108,6 +108,7 @@ else{
 		<span class="left">Email:&nbsp;</span>
 		<span class="right"><?php echo $email ?></span>
 	</h4>
+	<p><a href="logout.php">Logout</a></p>
 </div>
 <div>
 
