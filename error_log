@@ -1,0 +1,164 @@
+[05-Jan-2017 00:16:27 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/postprocess.php on line 9
+[05-Jan-2017 00:16:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/postprocess.php on line 19
+[05-Jan-2017 00:16:27 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/postprocess.php on line 21
+[05-Jan-2017 00:16:27 UTC] PHP Warning:  mkdir(): File exists in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/postprocess.php on line 31
+[05-Jan-2017 00:16:31 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/logout.php on line 3
+[05-Jan-2017 00:16:35 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/logincheck.php on line 7
+[05-Jan-2017 00:16:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/logincheck.php on line 11
+[05-Jan-2017 00:16:35 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/logincheck.php on line 13
+[05-Jan-2017 00:16:35 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/logincheck.php on line 45
+[05-Jan-2017 00:16:36 UTC] PHP Notice:  Undefined index: name in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/profile.php on line 64
+[05-Jan-2017 00:16:36 UTC] PHP Notice:  Undefined index: name in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/profile.php on line 87
+[05-Jan-2017 00:16:36 UTC] PHP Notice:  Undefined index: email in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/profile.php on line 91
+[05-Jan-2017 00:21:10 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/logincheck.php on line 7
+[05-Jan-2017 00:21:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/logincheck.php on line 11
+[05-Jan-2017 00:21:10 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/logincheck.php on line 13
+[05-Jan-2017 00:21:10 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/logincheck.php on line 45
+[05-Jan-2017 00:21:10 UTC] PHP Notice:  Undefined index: name in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/profile.php on line 64
+[05-Jan-2017 00:21:10 UTC] PHP Notice:  Undefined index: name in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/profile.php on line 87
+[05-Jan-2017 00:21:10 UTC] PHP Notice:  Undefined index: email in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/profile.php on line 91
+[05-Jan-2017 00:21:17 UTC] PHP Notice:  Undefined index: name in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/profile.php on line 64
+[05-Jan-2017 00:21:17 UTC] PHP Notice:  Undefined index: name in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/profile.php on line 87
+[05-Jan-2017 00:21:17 UTC] PHP Notice:  Undefined index: email in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/profile.php on line 91
+[05-Jan-2017 00:21:19 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/logout.php on line 3
+[05-Jan-2017 00:21:23 UTC] PHP Notice:  Undefined index: name in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/profile.php on line 64
+[05-Jan-2017 00:21:23 UTC] PHP Notice:  Undefined index: name in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/profile.php on line 87
+[05-Jan-2017 00:21:23 UTC] PHP Notice:  Undefined index: email in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/profile.php on line 91
+[05-Jan-2017 00:21:32 UTC] PHP Notice:  Undefined index: name in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/profile.php on line 64
+[05-Jan-2017 00:21:32 UTC] PHP Notice:  Undefined index: name in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/profile.php on line 87
+[05-Jan-2017 00:21:32 UTC] PHP Notice:  Undefined index: email in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/profile.php on line 91
+[05-Jan-2017 00:21:36 UTC] PHP Notice:  Undefined index: name in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/profile.php on line 64
+[05-Jan-2017 00:21:36 UTC] PHP Notice:  Undefined index: name in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/profile.php on line 87
+[05-Jan-2017 00:21:36 UTC] PHP Notice:  Undefined index: email in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/profile.php on line 91
+[05-Jan-2017 00:27:29 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'fsf2016'@'localhost' to database 'recipeme' in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/logincheck.php on line 8
+[05-Jan-2017 00:27:29 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/logincheck.php on line 12
+[05-Jan-2017 00:27:29 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/logincheck.php on line 14
+[05-Jan-2017 00:27:29 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/logincheck.php on line 46
+[05-Jan-2017 00:27:29 UTC] PHP Notice:  Undefined index: name in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/profile.php on line 64
+[05-Jan-2017 00:27:29 UTC] PHP Notice:  Undefined index: name in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/profile.php on line 87
+[05-Jan-2017 00:27:29 UTC] PHP Notice:  Undefined index: email in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/profile.php on line 91
+[05-Jan-2017 00:27:59 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/postprocess.php on line 9
+[05-Jan-2017 00:27:59 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/postprocess.php on line 19
+[05-Jan-2017 00:27:59 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/postprocess.php on line 21
+[05-Jan-2017 00:28:03 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/logout.php on line 3
+[05-Jan-2017 00:28:07 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'fsf2016'@'localhost' to database 'recipeme' in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/logincheck.php on line 8
+[05-Jan-2017 00:28:07 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/logincheck.php on line 12
+[05-Jan-2017 00:28:07 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/logincheck.php on line 14
+[05-Jan-2017 00:28:07 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/logincheck.php on line 46
+[05-Jan-2017 00:28:07 UTC] PHP Notice:  Undefined index: name in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/profile.php on line 64
+[05-Jan-2017 00:28:07 UTC] PHP Notice:  Undefined index: name in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/profile.php on line 87
+[05-Jan-2017 00:28:07 UTC] PHP Notice:  Undefined index: email in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/profile.php on line 91
+[05-Jan-2017 00:32:46 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'fsf2016'@'localhost' to database 'recipeme' in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/logincheck.php on line 8
+[05-Jan-2017 00:32:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/logincheck.php on line 12
+[05-Jan-2017 00:32:46 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/logincheck.php on line 14
+[05-Jan-2017 00:32:46 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/logincheck.php on line 46
+[05-Jan-2017 00:32:46 UTC] PHP Notice:  Undefined index: name in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/profile.php on line 64
+[05-Jan-2017 00:32:46 UTC] PHP Notice:  Undefined index: name in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/profile.php on line 87
+[05-Jan-2017 00:32:46 UTC] PHP Notice:  Undefined index: email in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/profile.php on line 91
+[05-Jan-2017 00:36:37 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'fsf2016'@'localhost' to database 'recipeme' in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/logincheck.php on line 8
+[05-Jan-2017 00:36:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/logincheck.php on line 12
+[05-Jan-2017 00:36:37 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/logincheck.php on line 14
+[05-Jan-2017 00:36:37 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/logincheck.php on line 46
+[05-Jan-2017 00:36:37 UTC] PHP Notice:  Undefined index: name in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/profile.php on line 64
+[05-Jan-2017 00:36:37 UTC] PHP Notice:  Undefined index: name in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/profile.php on line 87
+[05-Jan-2017 00:36:37 UTC] PHP Notice:  Undefined index: email in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/profile.php on line 91
+[05-Jan-2017 00:47:17 UTC] PHP Notice:  Undefined index: name in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/profile.php on line 64
+[05-Jan-2017 00:47:17 UTC] PHP Notice:  Undefined index: name in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/profile.php on line 87
+[05-Jan-2017 00:47:17 UTC] PHP Notice:  Undefined index: email in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/profile.php on line 91
+[05-Jan-2017 00:47:19 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/logout.php on line 3
+[05-Jan-2017 00:47:20 UTC] PHP Notice:  Undefined index: name in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/profile.php on line 64
+[05-Jan-2017 00:47:20 UTC] PHP Notice:  Undefined index: name in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/profile.php on line 87
+[05-Jan-2017 00:47:20 UTC] PHP Notice:  Undefined index: email in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/profile.php on line 91
+[05-Jan-2017 00:47:26 UTC] PHP Notice:  Undefined index: name in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/profile.php on line 64
+[05-Jan-2017 00:47:26 UTC] PHP Notice:  Undefined index: name in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/profile.php on line 87
+[05-Jan-2017 00:47:26 UTC] PHP Notice:  Undefined index: email in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/profile.php on line 91
+[05-Jan-2017 00:49:18 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'fsf2016'@'localhost' to database 'recipeme' in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/logincheck.php on line 8
+[05-Jan-2017 00:49:18 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/logincheck.php on line 12
+[05-Jan-2017 00:49:18 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/logincheck.php on line 14
+[05-Jan-2017 00:49:18 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/logincheck.php on line 46
+[05-Jan-2017 00:49:18 UTC] PHP Notice:  Undefined index: name in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/profile.php on line 64
+[05-Jan-2017 00:49:18 UTC] PHP Notice:  Undefined index: name in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/profile.php on line 87
+[05-Jan-2017 00:49:18 UTC] PHP Notice:  Undefined index: email in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/profile.php on line 91
+[05-Jan-2017 00:49:48 UTC] PHP Notice:  Undefined index: name in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/profile.php on line 64
+[05-Jan-2017 00:49:48 UTC] PHP Notice:  Undefined index: name in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/profile.php on line 87
+[05-Jan-2017 00:49:48 UTC] PHP Notice:  Undefined index: email in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/profile.php on line 91
+[05-Jan-2017 00:50:35 UTC] PHP Warning:  file(orange/profile.txt): failed to open stream: No such file or directory in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/lookup.php on line 86
+[05-Jan-2017 00:50:59 UTC] PHP Warning:  file(don/profile.txt): failed to open stream: No such file or directory in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/lookup.php on line 86
+[05-Jan-2017 00:52:08 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'fsf2016'@'localhost' to database 'recipeme' in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/logincheck.php on line 8
+[05-Jan-2017 00:52:08 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/logincheck.php on line 12
+[05-Jan-2017 00:52:08 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/logincheck.php on line 14
+[05-Jan-2017 00:52:08 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/logincheck.php on line 46
+[05-Jan-2017 00:52:08 UTC] PHP Notice:  Undefined index: name in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/profile.php on line 64
+[05-Jan-2017 00:52:08 UTC] PHP Notice:  Undefined index: name in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/profile.php on line 87
+[05-Jan-2017 00:52:08 UTC] PHP Notice:  Undefined index: email in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/profile.php on line 91
+[05-Jan-2017 00:52:18 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'fsf2016'@'localhost' to database 'recipeme' in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/logincheck.php on line 8
+[05-Jan-2017 00:52:18 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/logincheck.php on line 12
+[05-Jan-2017 00:52:18 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/logincheck.php on line 14
+[05-Jan-2017 00:52:18 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/logincheck.php on line 46
+[05-Jan-2017 00:52:18 UTC] PHP Notice:  Undefined index: name in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/profile.php on line 64
+[05-Jan-2017 00:52:18 UTC] PHP Notice:  Undefined index: name in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/profile.php on line 87
+[05-Jan-2017 00:52:18 UTC] PHP Notice:  Undefined index: email in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/profile.php on line 91
+[05-Jan-2017 00:52:31 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'fsf2016'@'localhost' to database 'recipeme' in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/logincheck.php on line 8
+[05-Jan-2017 00:52:31 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/logincheck.php on line 12
+[05-Jan-2017 00:52:31 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/logincheck.php on line 14
+[05-Jan-2017 00:52:31 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/logincheck.php on line 46
+[05-Jan-2017 00:52:31 UTC] PHP Notice:  Undefined index: name in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/profile.php on line 64
+[05-Jan-2017 00:52:31 UTC] PHP Notice:  Undefined index: name in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/profile.php on line 87
+[05-Jan-2017 00:52:31 UTC] PHP Notice:  Undefined index: email in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/profile.php on line 91
+[05-Jan-2017 00:52:59 UTC] PHP Notice:  Undefined index: name in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/profile.php on line 64
+[05-Jan-2017 00:52:59 UTC] PHP Notice:  Undefined index: name in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/profile.php on line 87
+[05-Jan-2017 00:52:59 UTC] PHP Notice:  Undefined index: email in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/profile.php on line 91
+[05-Jan-2017 00:53:41 UTC] PHP Notice:  Undefined index: name in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/profile.php on line 64
+[05-Jan-2017 00:53:41 UTC] PHP Notice:  Undefined index: name in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/profile.php on line 87
+[05-Jan-2017 00:53:41 UTC] PHP Notice:  Undefined index: email in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/profile.php on line 91
+[05-Jan-2017 00:53:52 UTC] PHP Notice:  Undefined index: name in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/profile.php on line 64
+[05-Jan-2017 00:53:52 UTC] PHP Notice:  Undefined index: name in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/profile.php on line 87
+[05-Jan-2017 00:53:52 UTC] PHP Notice:  Undefined index: email in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/profile.php on line 91
+[05-Jan-2017 00:55:06 UTC] PHP Notice:  Undefined index: name in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/profile.php on line 64
+[05-Jan-2017 00:55:06 UTC] PHP Notice:  Undefined index: name in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/profile.php on line 87
+[05-Jan-2017 00:55:06 UTC] PHP Notice:  Undefined index: email in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/profile.php on line 91
+[05-Jan-2017 00:58:13 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'fsf2016'@'localhost' to database 'recipeme' in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/logincheck.php on line 8
+[05-Jan-2017 00:58:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/logincheck.php on line 12
+[05-Jan-2017 00:58:13 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/logincheck.php on line 14
+[05-Jan-2017 00:58:13 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/logincheck.php on line 46
+[05-Jan-2017 00:58:13 UTC] PHP Notice:  Undefined index: name in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/profile.php on line 64
+[05-Jan-2017 00:58:13 UTC] PHP Notice:  Undefined index: name in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/profile.php on line 87
+[05-Jan-2017 00:58:13 UTC] PHP Notice:  Undefined index: email in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/profile.php on line 91
+[05-Jan-2017 00:58:41 UTC] PHP Notice:  Undefined index: name in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/profile.php on line 64
+[05-Jan-2017 00:58:41 UTC] PHP Notice:  Undefined index: name in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/profile.php on line 87
+[05-Jan-2017 00:58:41 UTC] PHP Notice:  Undefined index: email in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/profile.php on line 91
+[05-Jan-2017 00:58:44 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/logout.php on line 3
+[05-Jan-2017 00:58:46 UTC] PHP Notice:  Undefined index: name in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/profile.php on line 64
+[05-Jan-2017 00:58:46 UTC] PHP Notice:  Undefined index: name in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/profile.php on line 87
+[05-Jan-2017 00:58:46 UTC] PHP Notice:  Undefined index: email in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/profile.php on line 91
+[05-Jan-2017 01:10:55 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'fsf2016'@'localhost' to database 'recipeme' in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/logincheck.php on line 8
+[05-Jan-2017 01:10:55 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/logincheck.php on line 12
+[05-Jan-2017 01:10:55 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/logincheck.php on line 14
+[05-Jan-2017 01:10:55 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/logincheck.php on line 46
+[05-Jan-2017 01:10:55 UTC] PHP Notice:  Undefined index: name in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/profile.php on line 64
+[05-Jan-2017 01:10:55 UTC] PHP Notice:  Undefined index: name in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/profile.php on line 87
+[05-Jan-2017 01:10:55 UTC] PHP Notice:  Undefined index: email in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/profile.php on line 91
+[05-Jan-2017 01:15:08 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/logout.php on line 3
+[05-Jan-2017 01:15:13 UTC] PHP Notice:  Undefined index: name in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/profile.php on line 64
+[05-Jan-2017 01:15:13 UTC] PHP Notice:  Undefined index: name in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/profile.php on line 87
+[05-Jan-2017 01:15:13 UTC] PHP Notice:  Undefined index: email in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/profile.php on line 91
+[05-Jan-2017 01:15:40 UTC] PHP Notice:  Undefined index: name in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/profile.php on line 64
+[05-Jan-2017 01:15:40 UTC] PHP Notice:  Undefined index: name in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/profile.php on line 87
+[05-Jan-2017 01:15:40 UTC] PHP Notice:  Undefined index: email in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/profile.php on line 91
+[05-Jan-2017 01:17:14 UTC] PHP Notice:  Undefined index: name in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/profile.php on line 64
+[05-Jan-2017 01:17:14 UTC] PHP Notice:  Undefined index: name in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/profile.php on line 87
+[05-Jan-2017 01:17:14 UTC] PHP Notice:  Undefined index: email in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/profile.php on line 91
+[05-Jan-2017 01:19:01 UTC] PHP Notice:  Undefined index: name in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/profile.php on line 64
+[05-Jan-2017 01:19:01 UTC] PHP Notice:  Undefined index: name in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/profile.php on line 87
+[05-Jan-2017 01:19:01 UTC] PHP Notice:  Undefined index: email in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/profile.php on line 91
+[05-Jan-2017 01:19:04 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/logout.php on line 3
+[05-Jan-2017 01:19:51 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/postprocess.php on line 9
+[05-Jan-2017 01:19:51 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/postprocess.php on line 19
+[05-Jan-2017 01:19:51 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/postprocess.php on line 21
+[05-Jan-2017 01:19:55 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/logout.php on line 3
+[05-Jan-2017 01:21:02 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/postprocess.php on line 9
+[05-Jan-2017 01:21:02 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/postprocess.php on line 19
+[05-Jan-2017 01:21:02 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/postprocess.php on line 21
+[05-Jan-2017 01:24:40 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/logout.php on line 3
+[05-Jan-2017 01:26:42 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/logout.php on line 3
+[05-Jan-2017 01:30:26 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/debrasalomon/public_html/fsfall2016/rsoto/webapp3.3-master/logout.php on line 3
