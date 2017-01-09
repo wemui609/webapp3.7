@@ -16,7 +16,7 @@
 <!-- Sidenav (hidden by default) -->
 <?php require_once "nav.php"; ?>
 
-<form action="logincheck.php" enctype='multipart/form-data' method="post">
+
   <div class="imgcontainer">
   <br><br><br><h2 style="text-align: center;">Submit A Recipe</h2>
     <img src="http://cdn.mysitemyway.com/etc-mysitemyway/icons/legacy-previews/icons/glossy-black-3d-buttons-icons-food-beverage/056795-glossy-black-3d-button-icon-food-beverage-knife-fork-sc44.png" alt="Avatar" class="avatar">
